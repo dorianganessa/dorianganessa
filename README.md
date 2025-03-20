@@ -22,7 +22,7 @@ I'm passionate about sharing knowledge through **conference talks, blog posts, a
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) – Building a reputation as a **Fractional Head of Data**
+- 💼 [LinkedIn](https://www.linkedin.com/in/adrianosanges/) – Building a reputation as a **Fractional Head of Data**
 - 📝 [dataskew.io](https://dataskew.io) – My blog on all things data & tech
 - 🏡 Always looking for the next house (Naples, I'm coming for you!)
 
