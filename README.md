@@ -17,14 +17,13 @@ I have a **product-minded approach** to engineering, working cross-departmentall
 ## 🎤 Speaking & Writing
 
 I'm passionate about sharing knowledge through **conference talks, blog posts, and open-source contributions**:
-- 📝 I write on [Skewed Thoughts](https://newsletter.dataskew.io) about **data engineering, leadership, and life as a tech dad**.
+- 📝 I write on [Skewed Thoughts](https://newsletter.dataskew.io)  My Substack newsletter where I share anything I'm working on, leadership advice, gotchas, rants..
 
 
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/adrianosanges/) – Building a reputation as a **Fractional Head of Data**
 - 📝 [dataskew.io](https://dataskew.io) – My personal website
-- 💬 [Skewed Thoughts](https://newsletter.dataskew.io) My Substack newsletter where I share anything I'm working on, leadership advice, gotchas, rants..
 
 🚀 Open to collaborations, speaking opportunities, and building great data products together!
 
