@@ -17,7 +17,7 @@ I have a **product-minded approach** to engineering, working cross-departmentall
 ## 🎤 Speaking & Writing
 
 I'm passionate about sharing knowledge through **conference talks, blog posts, and open-source contributions**:
-- 📝 I write on [dataskew.io](https://dataskew.io) about **data engineering, leadership, and life as a tech dad**.
+- 📝 I write on [Skewed Thoughts](https://newsletter.dataskew.io) about **data engineering, leadership, and life as a tech dad**.
 
 
 ## 📬 Let's Connect
