@@ -23,7 +23,8 @@ I'm passionate about sharing knowledge through **conference talks, blog posts, a
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/adrianosanges/) – Building a reputation as a **Fractional Head of Data**
-- 📝 [dataskew.io](https://dataskew.io) – My personal website
+- 🔥 [adrianosanges.com](https://adrianosanges.com/) - My personal website
+- 📝 [dataskew.io](https://dataskew.io) – Data Engineering roadmaps to land high paying remote data roles!
 
 🚀 Open to collaborations, speaking opportunities, and building great data products together!
 
