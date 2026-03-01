@@ -25,6 +25,7 @@ I'm passionate about sharing knowledge through **conference talks, blog posts, a
 - 💼 [LinkedIn](https://www.linkedin.com/in/adrianosanges/) – Building a reputation as a **Fractional Head of Data**
 - 🔥 [adrianosanges.com](https://adrianosanges.com/) - My personal website
 - 📝 [dataskew.io](https://dataskew.io) – Data Engineering roadmaps to land high paying remote data roles!
+- 🏡 [casaninja.it](https://casaninja.it) - Italian mortgages comparator (comparatore mutui e calcolatore potere d'acquisto)
 
 🚀 Open to collaborations, speaking opportunities, and building great data products together!
 
